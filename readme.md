@@ -25,6 +25,11 @@ No installation is required to use this web application. Simply open the `index.
 - CSS
 - JavaScript
 
+# **Contribute:** 
+Feel free to fork and create pull requests.
+
+Thanks for visiting!!
+
 ## Author
 
 Abhinav Gardia
